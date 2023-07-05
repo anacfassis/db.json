@@ -16,20 +16,6 @@ Demo from this repository:
 5. In the "**Configure Project**" screen, leave everything default and click "**Deploy**".
 6. Wait until deployment is done, and your own JSON server is ready to serve!
 
-## Default `db.json`
-
-```json
-{
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
-}
-```
-
 ## Reference
 
 1. https://github.com/typicode/json-server
